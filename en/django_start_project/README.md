@@ -40,6 +40,7 @@ of the prompt that will be inviting your input on your command line.
             wsgi.py
             __init__.py
 
+In Linux you can install an application called as 'tree' which when invoked will show you the directory structure in the above form.
 
 `manage.py` is a script that helps with management of the site. With it we will be able to start a web server on our computer without installing anything else, amongst other things.
 
